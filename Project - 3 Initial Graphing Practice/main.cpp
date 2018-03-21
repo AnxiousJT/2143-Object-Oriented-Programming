@@ -1,4 +1,3 @@
-```
 //**************************************************************
 //                    Project # 3 Initial Graphing Practice
 //                      Name: Jackson Tran
@@ -64,4 +63,3 @@ int main()
 
 	return 0;
 }
-```
