@@ -1,0 +1,5 @@
+Initial Graphing Practice
+This is a project to get you up to speed using the SFML library. You are to create five different object of different size, color and location and draw them in a window of size (600,400). They should be placed so that they do not overlap.  Make one a triangle, another a square, another a pentagon, another a hexagon and the final a rectangle. Make the triangle and hexagon have an outer rim color different from the center color of the object.  You do not need classes. All you need is one main program.  Run your program and print its output using MWsnap, a program you can download off the web. If you have another program that can take snapshots of  windows you can use that. This one is quite cool though.  Do not make a full screenshot and then cut from it.
+
+TURN IN: a print out of your documented source and the output window stapled together. No envelope.
+
